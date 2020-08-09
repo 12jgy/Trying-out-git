@@ -1,3 +1,3 @@
-#Trying-out-git
+# Trying-out-git
 
 Just trying to do learn git
