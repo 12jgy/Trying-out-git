@@ -2,4 +2,5 @@ This is a lovely text
 Let's try to do some git stuff
 So I can do some proper version control
 And work with other people
+One more change
 :)
